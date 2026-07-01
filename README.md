@@ -36,6 +36,11 @@ This project provides designers, prompt engineers, and developer teams with an e
 
 ---
 
+## 🌐 Live Demo
+Experience the playground instantly: [https://bananapro.org/nano-banana-2-lite](https://bananapro.org/nano-banana-2-lite)
+
+---
+
 ## 🛠️ Technology Stack
 
 * **Frontend Framework:** React 19, TypeScript, Tailwind CSS, Lucide Icons, Modern Glassmorphic Design Theme.
