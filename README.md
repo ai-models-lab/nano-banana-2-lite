@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=1200&q=80" alt="Nano Banana 2 Lite Banner" width="100%" style="border-radius: 12px; border: 1px solid #1e293b; margin-bottom: 20px;" />
-
 </div>
 
 An interactive, full-stack prompt engineering workspace and capability evaluator for Google's lightning-fast **Nano Banana 2 Lite** (`gemini-3.1-flash-lite-image` / Imagen 3.1 Flash-Lite) image generation model.
