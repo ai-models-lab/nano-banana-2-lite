@@ -11,6 +11,7 @@
 <p align="center">
   <b>The fastest, most cost-efficient full-stack prompt engineering playground & capability benchmark suite for Google's newest Imagen 3.1 Flash-Lite model (Nano Banana 2 Lite).</b>
 </p>
+<img width="1207" height="725" alt="image" src="https://github.com/user-attachments/assets/7771d854-0816-4c58-a443-04c4f62ffa4e" />
 
 ---
 
